@@ -1,0 +1,360 @@
+[19-Dec-2022 11:29:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 11
+[19-Dec-2022 11:42:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'KAYAY' (T_STRING) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 22
+[19-Dec-2022 11:42:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'KAYAY' (T_STRING) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 22
+[19-Dec-2022 11:42:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'KAYAY' (T_STRING) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 22
+[19-Dec-2022 11:42:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'KAYAY' (T_STRING) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 22
+[19-Dec-2022 11:47:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 28
+[19-Dec-2022 11:48:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 28
+[19-Dec-2022 11:49:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:49:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:50:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:50:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:50:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:51:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 13
+[19-Dec-2022 11:54:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 33
+[19-Dec-2022 11:55:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 33
+[19-Dec-2022 11:57:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 33
+[19-Dec-2022 11:58:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 30
+[19-Dec-2022 11:58:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 30
+[19-Dec-2022 12:02:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 30
+[19-Dec-2022 12:04:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 28
+[19-Dec-2022 12:04:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 28
+[19-Dec-2022 12:54:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 28
+[19-Dec-2022 12:57:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 12:57:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:02:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:03:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:03:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:03:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:04:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:04:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:06:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 26
+[19-Dec-2022 13:08:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 25
+[19-Dec-2022 13:09:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 25
+[19-Dec-2022 13:18:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:19:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:19:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:21:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:22:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:23:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:23:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 13:24:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 21
+[19-Dec-2022 14:15:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 24
+[19-Dec-2022 14:17:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 24
+[19-Dec-2022 14:17:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexLogin.php on line 24
+[26-Dec-2022 10:03:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 24
+[26-Dec-2022 10:03:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 24
+[26-Dec-2022 10:07:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 24
+[26-Dec-2022 10:09:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 24
+[28-Dec-2022 16:43:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$piso' (T_VARIABLE), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 34
+[28-Dec-2022 16:44:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$piso' (T_VARIABLE), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 34
+[28-Dec-2022 16:46:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$piso' (T_VARIABLE), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 45
+[28-Dec-2022 16:48:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$color' (T_VARIABLE), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 45
+[28-Dec-2022 16:53:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$color' (T_VARIABLE), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 45
+[30-Dec-2022 17:51:10 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarCargo.php on line 41
+[07-Mar-2023 14:33:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[07-Mar-2023 14:33:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-Mar-2023 18:09:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 14:22:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 14:47:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[17-Mar-2023 14:47:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 14:47:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 14:48:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[17-Mar-2023 14:57:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 15:32:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 15:32:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[17-Mar-2023 15:34:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 16
+[21-Mar-2023 09:54:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[27-Mar-2023 11:33:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[29-Mar-2023 19:24:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[29-Mar-2023 19:24:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[10-Apr-2023 15:10:51 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarEntrega.php on line 31
+[10-Apr-2023 15:11:26 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarEntrega.php on line 31
+[10-Apr-2023 15:25:56 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarEntrega.php on line 31
+[10-Apr-2023 15:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarEntrega.php on line 31
+[10-Apr-2023 15:26:43 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarEntrega.php on line 31
+[11-Apr-2023 11:03:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 11:20:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 11:22:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 12:40:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 12:40:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 12:42:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 12:45:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 13:24:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 13:24:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 13:24:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 13:24:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 13:24:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 15:05:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 15:07:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 15:07:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 15:21:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 16:58:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 23:02:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 23:02:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 23:02:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[08-May-2023 23:02:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 12:24:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:48:32 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 12
+[09-May-2023 15:48:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:48:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:48:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:48:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:48:41 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 12
+[09-May-2023 15:49:10 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 12
+[09-May-2023 15:49:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:49:54 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaDespacho.php on line 12
+[09-May-2023 15:49:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 15:49:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 17:43:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[09-May-2023 22:21:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 29
+[09-May-2023 22:21:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 29
+[11-May-2023 12:01:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[11-May-2023 12:01:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[11-May-2023 12:18:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[11-May-2023 12:30:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[11-May-2023 12:32:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:20:55 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:21:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:21:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:21:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:48:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 21:48:04 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:01:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:04:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:04:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:04:52 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:05:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:05:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:09:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:10:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-May-2023 22:10:45 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:30:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:34:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:34:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:35:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:35:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:36:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 21:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 40
+[14-May-2023 21:57:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 22:22:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaEntrega.php on line 49
+[14-May-2023 22:27:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[14-May-2023 22:27:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 09:10:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 09:10:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 09:20:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 12:56:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 12:57:02 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 12:59:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[15-May-2023 13:07:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 13:07:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 13:09:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 13:09:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 18:31:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 18:31:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 25
+[15-May-2023 18:34:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 26
+[15-May-2023 18:35:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 26
+[16-May-2023 18:26:10 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:26:10 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:27:40 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:27:40 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:32:35 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:32:35 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:33:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:33:22 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:43:13 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:43:13 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 18:58:35 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 19:00:17 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 19:01:35 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 19:03:18 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 19:03:18 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[16-May-2023 19:04:07 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:05:06 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:06:04 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:07:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:08:00 America/Chicago] PHP Parse error:  syntax error, unexpected '2023' (T_LNUMBER) in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 12
+[16-May-2023 19:08:42 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:09:34 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:13:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:14:01 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 21
+[16-May-2023 19:21:22 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:21:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:25:42 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:26:15 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 17
+[16-May-2023 19:26:51 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 18
+[17-May-2023 10:23:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 16
+[17-May-2023 10:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 16
+[17-May-2023 10:24:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 16
+[17-May-2023 11:04:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:06:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:06:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:06:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:07:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:07:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 22
+[17-May-2023 11:07:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 19
+[17-May-2023 11:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 19
+[17-May-2023 11:10:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexRegistrarAgencia.php on line 19
+[18-May-2023 17:35:23 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:35:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:36:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:36:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:36:30 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:36:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:36:34 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:36:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:36:37 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:36:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:36:51 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:36:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:37:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:37:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:37:30 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:37:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:38:13 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:38:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:41:10 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:41:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:43:22 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 27
+[18-May-2023 17:43:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 32
+[18-May-2023 17:48:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 17:49:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 17:49:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 17:53:29 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 17:53:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 17:54:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 18:54:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 18:54:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:12 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:17 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:01:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:02:34 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:03:17 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:22:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:22:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:22:59 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:51:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:58:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 19:59:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:03:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:06:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:06:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:06:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[18-May-2023 20:06:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:08:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:22:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 20:49:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 21:29:28 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 21:30:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 21:54:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 22:34:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[18-May-2023 22:34:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[23-May-2023 16:08:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[23-May-2023 16:09:11 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[23-May-2023 16:23:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[30-May-2023 18:17:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[31-May-2023 16:22:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[31-May-2023 16:22:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[04-Jul-2023 17:04:08 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[04-Jul-2023 17:04:14 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[04-Jul-2023 17:05:26 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[04-Jul-2023 17:05:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[04-Jul-2023 17:06:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[12-Oct-2023 13:07:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[12-Oct-2023 13:07:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[12-Oct-2023 13:07:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[12-Oct-2023 13:07:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[12-Oct-2023 13:08:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[12-Oct-2023 13:08:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[21-Nov-2023 15:27:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[21-Nov-2023 15:27:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[29-Dec-2023 10:28:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:28:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:28:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[29-Dec-2023 10:28:58 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:29:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:29:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:30:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaRecojo.php on line 17
+[29-Dec-2023 10:30:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27
+[29-Dec-2023 10:30:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaPendientes.php on line 52
+[29-Dec-2023 10:30:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/android/faskexListaAgencia.php on line 27

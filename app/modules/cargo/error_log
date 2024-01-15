@@ -1,0 +1,9 @@
+[18-Dec-2022 21:01:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id13396017_admin'@'localhost' (using password: YES) in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 9
+[18-Dec-2022 21:01:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 33
+[18-Dec-2022 21:01:05 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 33
+[18-Dec-2022 21:02:43 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id13396017_admin'@'localhost' (using password: YES) in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 9
+[18-Dec-2022 21:02:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 33
+[18-Dec-2022 21:02:43 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/faskexRegistrarCargo.php on line 33
+[21-Dec-2022 00:15:24 America/Lima] PHP Parse error:  syntax error, unexpected '.' in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/.Model.php on line 163
+[04-Jan-2023 11:03:37 America/Lima] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/.Model.php on line 17
+[04-Jan-2023 11:03:50 America/Lima] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING), expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/cargo/.Model.php on line 17

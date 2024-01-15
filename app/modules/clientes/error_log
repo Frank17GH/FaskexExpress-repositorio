@@ -1,0 +1,24 @@
+[16-Sep-2022 17:30:48 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[16-Sep-2022 17:30:48 America/Chicago] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 15
+[16-Sep-2022 17:30:48 America/Chicago] PHP Warning:  file_get_contents(): Failed to enable crypto in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 15
+[16-Sep-2022 17:30:48 America/Chicago] PHP Warning:  file_get_contents(https://api.reniec.cloud/dni/): failed to open stream: operation failed in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 15
+[12-Oct-2022 10:47:33 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[12-Oct-2022 10:59:16 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:16 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:18 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:19 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:19 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:20 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:20 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9
+[18-Oct-2022 12:08:20 America/Chicago] PHP Warning:  file_get_contents(https://dni.optimizeperu.com/api/persons/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home4/fasktech/sistemas.faskex.com/app/modules/clientes/servi.php on line 9

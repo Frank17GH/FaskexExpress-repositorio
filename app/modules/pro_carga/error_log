@@ -1,0 +1,96 @@
+[04-Apr-2023 15:29:43 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 27
+[04-Apr-2023 15:29:43 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 35
+[04-Apr-2023 15:29:43 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 49
+[04-Apr-2023 15:29:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:82
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 82
+[04-Apr-2023 15:38:54 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 57
+[04-Apr-2023 15:38:54 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 65
+[04-Apr-2023 15:38:54 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 79
+[04-Apr-2023 15:38:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:112
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 112
+[04-Apr-2023 15:54:32 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 57
+[04-Apr-2023 15:54:32 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 65
+[04-Apr-2023 15:54:32 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 79
+[04-Apr-2023 15:54:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:112
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 112
+[04-Apr-2023 15:57:20 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 84
+[04-Apr-2023 15:57:20 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 92
+[04-Apr-2023 15:57:20 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 106
+[04-Apr-2023 15:57:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:139
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 139
+[04-Apr-2023 16:28:29 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 86
+[04-Apr-2023 16:28:29 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 94
+[04-Apr-2023 16:28:29 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 108
+[04-Apr-2023 16:28:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:141
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 141
+[04-Apr-2023 16:29:08 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 86
+[04-Apr-2023 16:29:08 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 94
+[04-Apr-2023 16:29:08 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 108
+[04-Apr-2023 16:29:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:141
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 141
+[04-Apr-2023 16:30:55 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 86
+[04-Apr-2023 16:30:55 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 94
+[04-Apr-2023 16:30:55 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 108
+[04-Apr-2023 16:30:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:141
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 141
+[04-Apr-2023 16:33:16 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 75
+[04-Apr-2023 16:33:16 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 83
+[04-Apr-2023 16:33:16 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 97
+[04-Apr-2023 16:33:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:130
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 130
+[04-Apr-2023 16:35:30 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 75
+[04-Apr-2023 16:35:30 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 83
+[04-Apr-2023 16:35:30 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 97
+[04-Apr-2023 16:35:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:130
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 130
+[04-Apr-2023 16:38:18 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 76
+[04-Apr-2023 16:38:18 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 84
+[04-Apr-2023 16:38:18 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 98
+[04-Apr-2023 16:38:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 131
+[04-Apr-2023 16:39:11 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 76
+[04-Apr-2023 16:39:11 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 84
+[04-Apr-2023 16:39:11 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 98
+[04-Apr-2023 16:39:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 131
+[04-Apr-2023 16:48:44 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 76
+[04-Apr-2023 16:48:44 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 84
+[04-Apr-2023 16:48:44 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 98
+[04-Apr-2023 16:48:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 131
+[04-Apr-2023 17:13:45 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 83
+[04-Apr-2023 17:13:45 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 97
+[04-Apr-2023 17:13:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:130
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 130
+[04-Apr-2023 17:22:40 America/Chicago] PHP Warning:  Use of undefined constant idorden - assumed 'idorden' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 83
+[04-Apr-2023 17:22:40 America/Chicago] PHP Warning:  Use of undefined constant tr_obdigit - assumed 'tr_obdigit' (this will throw an Error in a future version of PHP) in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 97
+[04-Apr-2023 17:22:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Mod' not found in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php:130
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/pro_carga/inicio.php on line 130

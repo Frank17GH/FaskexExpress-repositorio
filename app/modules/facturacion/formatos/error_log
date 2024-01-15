@@ -1,0 +1,125 @@
+[23-Feb-2023 21:45:39 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 7
+[23-Feb-2023 21:48:03 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 7
+[23-Feb-2023 21:51:26 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 7
+[23-Feb-2023 21:51:31 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 7
+[24-Feb-2023 15:06:09 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 7
+[27-Feb-2023 12:08:32 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:17:21 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:17:32 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:18:47 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:18:59 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:22:09 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:22:15 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:22:45 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 11:30:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 11:30:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:32:44 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:33:13 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:33:16 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:34:36 America/Lima] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 4
+[27-Feb-2023 12:34:36 America/Lima] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 4
+[27-Feb-2023 12:34:36 America/Lima] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 4
+[27-Feb-2023 12:35:08 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:35:22 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:42:53 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:43:11 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:44:43 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:47:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:49:13 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:49:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 27
+[27-Feb-2023 12:50:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function getBarcode() on null in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 25
+[27-Feb-2023 12:24:51 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 13:25:03 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 12:25:25 America/Chicago] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting identifier (T_STRING) in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 13:26:12 America/Lima] PHP Fatal error:  Uncaught Error: Class 'vendor\Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6
+[27-Feb-2023 13:26:36 America/Lima] PHP Fatal error:  Uncaught Error: Class 'vendor\Picqer\Barcode\BarcodeGeneratorPNG' not found in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/facturacion/formatos/barcode.php on line 6

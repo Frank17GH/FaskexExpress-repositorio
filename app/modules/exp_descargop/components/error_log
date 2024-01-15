@@ -1,0 +1,11 @@
+[22-Apr-2023 15:36:06 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Mod::consultar_codigo() in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/components/data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/components/data.php on line 10
+[22-Apr-2023 15:37:24 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Mod::consultar_codigo() in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/components/data.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/components/data.php on line 10
+[22-Apr-2023 19:43:01 America/Lima] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/.Model.php on line 109
+[22-Apr-2023 19:43:09 America/Lima] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/.Model.php on line 109
+[22-Apr-2023 19:44:01 America/Lima] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home4/fasktech/sistemas.faskex.com/app/modules/exp_descargop/.Model.php on line 109
